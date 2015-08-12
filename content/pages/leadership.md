@@ -1,6 +1,8 @@
 Title: Leadership
 Date: 2015-07-29 11:46
 Summary: Meet the people who make GBIC happen.
+Template: leadership
+
 
 <style>
 .image:before{
@@ -30,11 +32,11 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/people/mccorrison_jamison.png" alt="Jamison McCorrison" /></a>
     <header>
       <h3>VP Communication</h3>
     </header>
-    <p>Jamison McCorrison is a 2nd-year.</p>
+    <p>Jamison M McCorrison is a 2nd-year. He develops methods for automated single-nuclei QC and RNA-seq analysis from individual human neurons for Dr. Nicholas Schork's lab and is interested in genomics-driven clinical decision systems.</p>
   </section>
 
   </div>
@@ -86,4 +88,4 @@ Summary: Meet the people who make GBIC happen.
     <p>Jeffery Yuan is a 3rd-year.</p>
   </section>
 </div>
-</div>
+</div>-->

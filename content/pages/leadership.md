@@ -1,7 +1,7 @@
 Title: Leadership
 Date: 2015-07-29 11:46
 Summary: Meet the people who make GBIC happen.
-Template: leadership
+<!-- Template: leadership -->
 
 
 <style>
@@ -32,7 +32,7 @@ Template: leadership
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/people/mccorrison_jamison.png" alt="Jamison McCorrison" /></a>
+    <a href="#" class="image feature"><img src="/images/people/mccorrison_jamison_square.png" alt="Jamison McCorrison" /></a>
     <header>
       <h3>VP Communication</h3>
     </header>
@@ -88,4 +88,4 @@ Template: leadership
     <p>Jeffery Yuan is a 3rd-year.</p>
   </section>
 </div>
-</div>-->
+</div>

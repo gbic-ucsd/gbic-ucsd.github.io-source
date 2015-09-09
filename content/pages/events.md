@@ -45,4 +45,4 @@ Come hang out and get In-n-Out burgers!
 
 Burritos and temporary tattoos :)
 
-[Imgur](http://i.imgur.com/GEVGI5y.jpg)
+![Imgur](http://i.imgur.com/GEVGI5y.jpg)

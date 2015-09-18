@@ -44,7 +44,7 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/people/marty_rachel.png" alt="" /></a>
     <header>
       <h3>VP Onboarding</h3>
     </header>
